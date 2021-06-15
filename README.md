@@ -10,12 +10,12 @@ PyQT5, CV2를 기반으로 작성되었습니다.
 3. dcm파일만 추출해 작업이 진행됩니다. 하단의 프로그레스 바 혹은 출력 메시지를 통해 진행상황을 알 수 있습니다.
 
 <H2> 예시 </H2>
-![image](https://user-images.githubusercontent.com/43870121/121974245-f3ed6f80-cdb9-11eb-9fcb-0d445c8e135d.png)
+<image src="https://user-images.githubusercontent.com/43870121/121974245-f3ed6f80-cdb9-11eb-9fcb-0d445c8e135d.png">
 - 위와 같은 이미지가 존재 할 경우 아래와 같이 분류됩니다.
 - 왼손 예시
-![image](https://user-images.githubusercontent.com/43870121/121974853-4713f200-cdbb-11eb-9e1b-768e1eec84e3.png)
+<image src="https://user-images.githubusercontent.com/43870121/121974853-4713f200-cdbb-11eb-9e1b-768e1eec84e3.png">
 - 오른손 예시
-![image](https://user-images.githubusercontent.com/43870121/121974879-585cfe80-cdbb-11eb-9fee-6c5c99f41edb.png)
+<image src="https://user-images.githubusercontent.com/43870121/121974879-585cfe80-cdbb-11eb-9fee-6c5c99f41edb.png">
 
 
 <H2> 특징 </H2>
