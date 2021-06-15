@@ -20,8 +20,12 @@ PyQT5, CV2를 기반으로 작성되었습니다.
 
 
 <H2> 특징 </H2>
-- R 표시만 인식해 좌수와 우수를 분류합니다. L표시는 아직 인식하지 못합니다.
+- R 표시만 인식해 좌수와 우수를 분류합니다. L표시는 아직 인식하지 못합니다.<br>
+- 아래와 같이 binarization, labeling 과정을 거쳐 연산 후 margin 50을 가진 상태로 return 합니다.
+<image src="https://user-images.githubusercontent.com/43870121/121976100-14b7c400-cdbe-11eb-9af0-851b53fbce60.png">
+
 
 <H2> 출력 구조 </H2>
-- 출력폴더 ㅡ HAND_R --  R_file 1, ..., R_file n<br>
+- 출력폴더 <br>
+          ㄴ HAND_R --  R_file 1, ..., R_file n<br>
           ㄴ HAND_L --- L_file 1, ..., L_file n<br>
